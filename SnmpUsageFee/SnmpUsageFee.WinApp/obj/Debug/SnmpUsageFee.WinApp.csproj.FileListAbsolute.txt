@@ -1,0 +1,12 @@
+C:\Users\Luis Ariel Zanella\source\repos\SnmpUsageFee\SnmpUsageFee.WinApp\bin\Debug\SnmpUsageFee.WinApp.exe.config
+C:\Users\Luis Ariel Zanella\source\repos\SnmpUsageFee\SnmpUsageFee.WinApp\bin\Debug\SnmpUsageFee.WinApp.exe
+C:\Users\Luis Ariel Zanella\source\repos\SnmpUsageFee\SnmpUsageFee.WinApp\bin\Debug\SnmpUsageFee.WinApp.pdb
+C:\Users\Luis Ariel Zanella\source\repos\SnmpUsageFee\SnmpUsageFee.WinApp\obj\Debug\SnmpUsageFee.WinApp.csprojResolveAssemblyReference.cache
+C:\Users\Luis Ariel Zanella\source\repos\SnmpUsageFee\SnmpUsageFee.WinApp\obj\Debug\SnmpUsageFee.WinApp.Form1.resources
+C:\Users\Luis Ariel Zanella\source\repos\SnmpUsageFee\SnmpUsageFee.WinApp\obj\Debug\SnmpUsageFee.WinApp.Properties.Resources.resources
+C:\Users\Luis Ariel Zanella\source\repos\SnmpUsageFee\SnmpUsageFee.WinApp\obj\Debug\SnmpUsageFee.WinApp.csproj.GenerateResource.Cache
+C:\Users\Luis Ariel Zanella\source\repos\SnmpUsageFee\SnmpUsageFee.WinApp\obj\Debug\SnmpUsageFee.WinApp.csproj.CoreCompileInputs.cache
+C:\Users\Luis Ariel Zanella\source\repos\SnmpUsageFee\SnmpUsageFee.WinApp\obj\Debug\SnmpUsageFee.WinApp.exe
+C:\Users\Luis Ariel Zanella\source\repos\SnmpUsageFee\SnmpUsageFee.WinApp\obj\Debug\SnmpUsageFee.WinApp.pdb
+C:\Users\Luis Ariel Zanella\source\repos\SnmpUsageFee\SnmpUsageFee.WinApp\bin\Debug\SnmpSharpNet.pdb
+C:\Users\Luis Ariel Zanella\source\repos\SnmpUsageFee\SnmpUsageFee.WinApp\bin\Debug\SnmpSharpNet.xml
