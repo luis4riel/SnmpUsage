@@ -174,8 +174,6 @@ namespace SnmpUsageFee.WinApp
                     }
                 }
                 this.graphic.Series["Taxa"].Points.AddXY(lulu, lala);
-                lala++;
-                lulu++;
             }
         }
 
